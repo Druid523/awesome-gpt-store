@@ -213,6 +213,7 @@ Your stars🌟 and recommendations are what make this community vibrant!
 * [Personal Trainer with Common Sense](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense) - A Personal Trainer that customizes gym programs and offers diet tips.
 * [Pump University](https://chat.openai.com/g/g-cgJkNatgi-pump-university) - The Ultimate AI fitness coach, crafting personalized workouts with adaptable exercise options and visual YouTube videos, suited for any fitness level and goal
 * [Foodle AI](https://chat.openai.com/g/g-z7P3krgic-foodle-ai)- AI nutritionist buddy to help you out. Get Instant nutritional breakdown from photos, barcodes, meal plans, recipe ideas, dish pairing for wine and much more.
+* [Counseling Companion](https://chat.openai.com/g/g-LsMbG1tSW-counseling-companion) - Empathetic AI helper trained by licensed psychotherapist. Intended to offer initial, stabilizing support for mental health issues while the user seeks professional assistance.
 
 ## Philosophy & Self-Improvement
 
